@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Spanish",
+    "description": "...",
+    "vocabulary": [
+
+    ],
+    "prepositions": [
+      "a", "de", "para", "por"
+    ],
+    "ancestorLanguage": "Proto-Indo-European"
+  },
+  {
+    "name": "French",
+    "description": "...",
+    "vocabulary": [],
+    "prepositions": [
+      "à", "de", "pour"
+    ],
+    "ancestorLanguage": "Proto-Indo-European"
+  },
+  {
+    "name": "German",
+    "description": "...",
+    "vocabulary": [],
+    "prepositions": [
+      "auf", "bis", "von", "zu"
+    ],
+    "ancestorLanguage": "Proto-Indo-European"
+  },
+  {
+    "name": "Portuguese",
+    "description": "...",
+    "vocabulary": [],
+    "prepositions": [
+      "a", "de", "para", "por"
+    ],
+    "ancestorLanguage": "Proto-Indo-European"
+  }
+]
