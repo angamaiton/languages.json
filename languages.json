@@ -8,7 +8,14 @@
     "prepositions": [
       "a", "de", "para", "por"
     ],
-    "ancestorLanguage": "Proto-Indo-European"
+    "conjunctions": [],
+    "pronouns": [],
+    "ancestorLanguage": "Proto-Indo-European",
+    "difficultyLevel": [
+      {
+        "European": 2
+      }
+    ]
   },
   {
     "name": "French",
@@ -17,7 +24,14 @@
     "prepositions": [
       "à", "de", "pour"
     ],
-    "ancestorLanguage": "Proto-Indo-European"
+    "conjunctions": [],
+    "pronouns": [],
+    "ancestorLanguage": "Proto-Indo-European",
+    "difficultyLevel": [
+      {
+        "European": 2
+      }
+    ]
   },
   {
     "name": "German",
@@ -26,7 +40,14 @@
     "prepositions": [
       "auf", "bis", "von", "zu"
     ],
-    "ancestorLanguage": "Proto-Indo-European"
+    "conjunctions": [],
+    "pronouns": [],
+    "ancestorLanguage": "Proto-Indo-European",
+    "difficultyLevel": [
+      {
+        "European": 3
+      }
+    ]
   },
   {
     "name": "Portuguese",
@@ -35,6 +56,13 @@
     "prepositions": [
       "a", "de", "para", "por"
     ],
-    "ancestorLanguage": "Proto-Indo-European"
+    "conjunctions": [],
+    "pronouns": [],
+    "ancestorLanguage": "Proto-Indo-European",
+    "difficultyLevel": [
+      {
+        "European": 2
+      }
+    ]
   }
 ]
